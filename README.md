@@ -1,6 +1,6 @@
-# Hi 👋,  This is **Lingesh Kumar**
+# Hey! 👋,  I am **Naga Shree Kamaraj**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=14&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Electronics+and+Communication+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73BC7&width=435&lines=A+COMPUTER+SCIENCE+ENGINEER)](https://git.io/typing-svg)
 <img align="right" width="500" height="500" src="https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/printed-circuit-board-concept-illustration.png" alt="Electronics"/>
 
 - 😎 Here is my resume
@@ -37,7 +37,7 @@
     - [ ] Energy meter with IoT monitoring 
 ---
 ## Tools & Technologies...
-![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/CST.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/resize-174815513114553816581965692.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/proteus.png) &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <br>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/resize-174815513114553816581965692.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/proteus.png) &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <br>
 ---
 ## Soft Skills...
 - <img width="25" height="25" src="https://img.icons8.com/color/48/teacher.png" alt="teacher"/> &nbsp; Teaching or instructing 
