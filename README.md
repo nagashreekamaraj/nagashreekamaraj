@@ -1,4 +1,4 @@
-# Hi there👋,  I am **Naga Shree Kamaraj**
+# _Hi there👋,  I am_ **NAGA SHREE KAMARAJ**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73BC7&width=435&lines=A+COMPUTER+SCIENCE+ENGINEER)](https://git.io/typing-svg)
 <img align="right" width="500" height="500" src="https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/printed-circuit-board-concept-illustration.png" alt="Electronics"/>
