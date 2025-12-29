@@ -29,7 +29,7 @@
     - [ ] Drawing App with Undo/Redo
              
   Other projects...
-    - [x] Simply Waste(https://github.com/nagashreekamaraj/Simply-Waste)
+    - [x] [Simply Waste](https://github.com/nagashreekamaraj/Simply-Waste)
     
 ---
 ## Tools & Technologies...
