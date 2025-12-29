@@ -28,8 +28,8 @@
     - [ ] Custom Hooks System
     - [ ] Drawing App with Undo/Redo
              
- Other projects
-    - [ ] Simply Waste()
+  Other projects...
+    - [x] Simply Waste(https://github.com/nagashreekamaraj/Simply-Waste)
     
 ---
 ## Tools & Technologies...
