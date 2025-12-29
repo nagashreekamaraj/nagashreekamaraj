@@ -1,7 +1,7 @@
 # _Hi there👋,  I am_ **NAGA SHREE KAMARAJ**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73BC7&width=435&lines=A+COMPUTER+SCIENCE+ENGINEER)](https://git.io/typing-svg)
-<img align="right" width="500" height="500" src="https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/printed-circuit-board-concept-illustration.png" alt="Electronics"/>
+<img align="right" width="500" height="500" src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY5OTk4ODMsIm5iZiI6MTc2Njk5OTU4MywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDA5MTMwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5Mjg2Mzc1NmQ5ZDRkMmMxODczZmIzNjBkOWU3NDIxZjE1YzEyZmUyMjQ0MWZhMzExOTRiYTI3MjBjMzZiOWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.m83hAFWpDRV2eS_eZZG65-0FlNtUPIg6zMR9lWOCMng" alt="Electronics"/>
 
 - 😎 Here is my resume
 - 🛜 I'm currently learning Embedded system
@@ -17,24 +17,20 @@
 - 📡 An Antenna Designer
        
   My Projects...
-    - [x] [Microstrip Patch antenna](https://github.com/lingeshkumarkamaraj/Microstrip-Patch-antenna)
-    - [x] [Halfwave Dipole antenna](https://github.com/lingeshkumarkamaraj/Halfwave-Dipole-Antenna)
-    - [x] [Rectangular Slot antenna](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna)
-    - [x] [Pyramidal Horn antenna](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna)
-    - [x] [Circular Patch antenna](https://github.com/lingeshkumarkamaraj/Circular-Patch-Antenna)
+    - [ ] [Custom Promise Library](https://github.com/lingeshkumarkamaraj/Microstrip-Patch-antenna)
+    - [ ] [Drag-Drop Kanban](https://github.com/lingeshkumarkamaraj/Halfwave-Dipole-Antenna)
+    - [ ] [Virtual Scroll List](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna)
+    - [ ] [Form Builder](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna)
+    - [ ] [Mini Reactivity System](https://github.com/lingeshkumarkamaraj/Circular-Patch-Antenna)
+    - [ ] Event Loop Visualizer
+    - [ ] Module Bundler
+    - [ ] Template Engine
+    - [ ] Custom Hooks System
+    - [ ] Drawing App with Undo/Redo
              
-- 🦾 Embedded projects to do 
-    - [x] [Home automation](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/README.md)
-    - [x] [Garbage segregator and bin level indication](https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/blob/main/README.md)
-    - [x] [Smart irrigation system](https://github.com/lingeshkumarkamaraj/Smart-Irrigation-System/blob/main/README.md)
-    - [ ] Weather monitoring station 
-    - [ ] Smart blink stick for visually impaired 
-    - [ ] Smart door lick with RFID 
-    - [ ] Industrial Temperature controller 
-    - [ ] Automatic PET feeder 
-    - [ ] Voice controlled robot 
-    - [ ] Gesture controlled Robot 
-    - [ ] Energy meter with IoT monitoring 
+ Other projects
+    - [ ] Simply Waste()
+    
 ---
 ## Tools & Technologies...
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/resize-174815513114553816581965692.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/proteus.png) &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <br>
