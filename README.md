@@ -1,14 +1,13 @@
 # _Hi there👋,  I am_ **NAGA SHREE KAMARAJ**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73BC7&width=435&lines=A+COMPUTER+SCIENCE+ENGINEER)](https://git.io/typing-svg)
-<img align="right" width="500" height="500" src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY5OTk4ODMsIm5iZiI6MTc2Njk5OTU4MywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDA5MTMwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5Mjg2Mzc1NmQ5ZDRkMmMxODczZmIzNjBkOWU3NDIxZjE1YzEyZmUyMjQ0MWZhMzExOTRiYTI3MjBjMzZiOWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.m83hAFWpDRV2eS_eZZG65-0FlNtUPIg6zMR9lWOCMng" alt="Electronics"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73BC7&width=435&lines=COMPUTER+SCIENCE+ENGINEERING+STUDENT)](https://git.io/typing-svg)
+<img align="right" width="500" height="500" src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY5OTk4ODMsIm5iZiI6MTc2Njk5OTU4MywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDA5MTMwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5Mjg2Mzc1NmQ5ZDRkMmMxODczZmIzNjBkOWU3NDIxZjE1YzEyZmUyMjQ0MWZhMzExOTRiYTI3MjBjMzZiOWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.m83hAFWpDRV2eS_eZZG65-0FlNtUPIg6zMR9lWOCMng" alt="developer"/>
 
 - 😎 Here is my resume
 - 🛜 I'm currently learning Embedded system
 - 🤖 I'm interested in IoT and Robotics
 - 💡 I'm eagerly waiting for my core placements...
 - 💻 Tech vibes only!
-- 🔖 Tamil and English to speak
 - 💬 To Buzz me <br>
    [ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lingesh-kumar-kamaraj-04092004s?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bbcq0ETArSQSfOeQajAregg%3D%3D)  <br> 
     [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=lingeshkumarkamaraj@gmail.com&tf=cm)<br>
@@ -18,10 +17,10 @@
        
   My Projects...
     - [ ] [Custom Promise Library](https://github.com/lingeshkumarkamaraj/Microstrip-Patch-antenna)
-    - [ ] [Drag-Drop Kanban](https://github.com/lingeshkumarkamaraj/Halfwave-Dipole-Antenna)
-    - [ ] [Virtual Scroll List](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna)
-    - [ ] [Form Builder](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna)
-    - [ ] [Mini Reactivity System](https://github.com/lingeshkumarkamaraj/Circular-Patch-Antenna)
+    - [ ] [Drag-Drop Kanban]()
+    - [ ] [Virtual Scroll List]()
+    - [ ] [Form Builder]()
+    - [ ] [Mini Reactivity System]()
     - [ ] Event Loop Visualizer
     - [ ] Module Bundler
     - [ ] Template Engine
@@ -33,14 +32,7 @@
     
 ---
 ## Tools & Technologies...
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/resize-174815513114553816581965692.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/proteus.png) &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <br>
----
-## Soft Skills...
-- <img width="25" height="25" src="https://img.icons8.com/color/48/teacher.png" alt="teacher"/> &nbsp; Teaching or instructing 
-- <img width="25" height="25" src="https://img.icons8.com/parakeet/48/conference.png" alt="conference"/> &nbsp; Leading a team
-- <img width="25" height="25" src="https://img.icons8.com/stencil/32/helping-hand.png" alt="helping-hand"/> &nbsp; Being reliable
-- <img width="25" height="25" src="https://img.icons8.com/fluency/48/creative-commons-by.png" alt="creative-commons-by"/> &nbsp; Taking initiative
-- <img width="25" height="25" src="https://img.icons8.com/color/48/think-do.png" alt="think-do"/> &nbsp; Thinking creatively
+<img width="48" height="48" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java"/>   <img width="48" height="48" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript"/> <img width="48" height="48" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c"/> <img width="48" height="48" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git"/><br>
 ---
 ## My Streak...
 [![LK's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lingeshkumarkamaraj&show_icons=true&theme=vision-friendly-dark#gh-dark-mode-only)](https://github.com/lingeshkumarkamaraj/github-readme-stats#gh-dark-mode-only)
