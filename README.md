@@ -16,7 +16,7 @@
 - 📡 An Antenna Designer
        
   My Projects...
-    - [ ] [Custom Promise Library](https://github.com/lingeshkumarkamaraj/Microstrip-Patch-antenna)
+    - [ ] [Custom Promise Library](https://github.com/nagashreekamaraj/Custom-Promise-Library)
     - [ ] [Drag-Drop Kanban]()
     - [ ] [Virtual Scroll List]()
     - [ ] [Form Builder]()
