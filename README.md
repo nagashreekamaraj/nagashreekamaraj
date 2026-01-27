@@ -4,13 +4,13 @@
 <img align="right" width="500" height="500" src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY5OTk4ODMsIm5iZiI6MTc2Njk5OTU4MywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDA5MTMwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5Mjg2Mzc1NmQ5ZDRkMmMxODczZmIzNjBkOWU3NDIxZjE1YzEyZmUyMjQ0MWZhMzExOTRiYTI3MjBjMzZiOWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.m83hAFWpDRV2eS_eZZG65-0FlNtUPIg6zMR9lWOCMng" alt="developer"/>
 
 - 😎 Here is my resume
-- 🛜 I'm currently learning Embedded system
-- 🤖 I'm interested in IoT and Robotics
-- 💡 I'm eagerly waiting for my core placements...
+- 🛜 I'm currently learning Full Stack
+- 🤖 I'm interested in Web and App Development
+- 💡 I'm eagerly waiting for web development based placements...
 - 💻 Tech vibes only!
 - 💬 To Buzz me <br>
-   [ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lingesh-kumar-kamaraj-04092004s?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bbcq0ETArSQSfOeQajAregg%3D%3D)  <br> 
-    [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=lingeshkumarkamaraj@gmail.com&tf=cm)<br>
+   [ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/naga-shree-kamaraj-171093328)  <br> 
+    [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=nagashreekamaraj@gmail.com&tf=cm)<br>
     [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/this__is__lk?utm_source=qr)
 
 - 📡 An Antenna Designer
